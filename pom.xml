@@ -18,9 +18,9 @@
   
 <distributionManagement>
   <repository>
-    <id>internal.repo</id>
-    <name>Internal repo</name>
-    <url>file:///var/lib/jenkins/DeepaksLocalRepo/</url>
+    <id>releases</id>
+    <!-- CHANGE HERE by your team nexus server -->
+    <url>http://54.161.233.180:8081/repository/maven-releases/</url>
   </repository>
 </distributionManagement>
 
