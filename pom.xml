@@ -25,6 +25,7 @@
   <snapshotRepository>
     <id>snapshots</id>
     <!-- CHANGE HERE by your team nexus server -->
+    <!--Adding a comment to just intiate a commit -->
     <url>http://52.207.167.37:8081/repository/maven-snapshots/</url>
    </snapshotRepository>
 </distributionManagement>
